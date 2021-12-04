@@ -10,7 +10,7 @@
  Assuming you have a powerful enough PC to open cmd or anything to run commands, you can type `shutdown /a` to cancel the shutdown. Windows will still keep on popping up until the game closes or crashes.
  
 # How to build
- [I've made a guide for that](https://github.com/Raoul1808/SpeenChroma/wiki/Building-the-mod), just make sure you [match the dependencies with what the mod actually requires](https://github.com/Raoul1808/YouFailed/blob/044a7bd8e13a1ca8b9646099a7607d9d5332dfd3/YouFailed.csproj#L38) (it doesn't require everything)
+ [I've made a guide for that](https://github.com/Raoul1808/SpeenChroma/wiki/Building-the-mod), just make sure you [match the dependencies with what the mod actually requires](https://github.com/Raoul1808/YouFailed/blob/044a7bd8e13a1ca8b9646099a7607d9d5332dfd3/YouFailed.csproj#L38) (it doesn't require \*everything\* listed on the building guide)
  
 # Why?
  [Blame soda, edge and haomakk](https://discord.com/channels/638508804505337867/776845579812601896/916398507995303936).
